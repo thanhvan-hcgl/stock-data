@@ -1,1 +1,3 @@
 # stock-data
+Sử dụng crawl data từ trang web từ các trang web chứng khoán như CAFEF, FIALDA,....
+Sau đó sử dụng VBA để biểu diển dữ liệu
